@@ -4,11 +4,12 @@ Dit JavaScript framework is voor mensen die nog totaal geen ervaring hebben met 
 In gebruik:
 
 1. Voeg <script src="js/simplejsbox.js"></script> toe in de <head> van je code.
-2. Voeg de volgende code toe tussen je <body></body> tags om de 'box' zichtbaar te maken en de JavaScript werkend te krijgen.                 <style>
+2. Voeg de volgende code toe tussen je <body></body> tags om de 'box' zichtbaar te maken en de JavaScript werkend te krijgen.  
+<style>
         input[type=text] {
             font-size: 20px;
         }
-        </style>
+</style>
         <div style="margin:10px; padding:30px; border:1px solid #666; width:550px;">
                 Dit is een demo voor een JavaScript framework, gemaakt door Timo Bergmans.<br><br>
                 De simpelste functies van JavaScript staan hier bij elkaar zodat je deze makkelijk leert begrijpen.
